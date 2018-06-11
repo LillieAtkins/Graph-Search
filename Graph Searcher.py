@@ -1,13 +1,4 @@
 """
-I have neither given nor recieved any unauthorized aid on this assignment.
-
-Lillie Atkins
-Programming Assignment 2
-
-Worked with Nicole Hong
-
-Number of hours spent on assignment: 9 hours
-
 Sample output:
 
 >>> graphSearch()
